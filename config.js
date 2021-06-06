@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Em yêu anh nhiều lắm ý <3',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hẹn gặp em vào tháng 7 nha, mong sớm lên HN với bé lắm ý <3',
-    btnAccept: 'Okiiiii lun ',
+    btnAccept: 'Okiiiii lun !!',
     messLink: 'https://www.facebook.com/giaphong.ha.12/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
